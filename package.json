@@ -1,0 +1,16 @@
+{
+  "name": "efficient-chocolate-forsake",
+  "productName": "efficient-chocolate-forsake",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "daryn",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "2.0.7"
+  }
+}
